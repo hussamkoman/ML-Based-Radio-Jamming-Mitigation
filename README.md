@@ -8,7 +8,7 @@ jamming, leveraging TensorFlow for robust anti-jamming techniques.
 This toolkit enables:
 
 - **Simulation** of QAM transmitters and various barrage jamming attacks.
-- **Dataset generation** (mixed jamming styles and JSR sweep HDF5 datasets).
+- **Dataset generation** mixed jamming styles and JSR sweep HDF5 datasets.
 - **Deep learning training** of a residual-attention QAM receiver using TensorFlow.
 - **Performance evaluation** via BER vs. JSR curves and real-time inference benchmarks.
 - **Containerized environment** powered by the `qamaireceiver` Docker container.
