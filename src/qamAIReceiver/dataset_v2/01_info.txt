@@ -1,0 +1,2012 @@
+$ python dataset_generator.py
+Generating 1000 runs → dataset_v2/01_qam_simulations.h5
+  M               : 16
+  TX-power [W]    : 1
+  Carrier freq [Hz]: 10000
+  Data-rate [bit/s]: 1024
+  Sampling rate   : 262144.0
+  Duration [s]    : 1.0
+  Jammer BW [Hz]  : 2000
+  Tone spacing [Hz]: 100
+
+Bit Error Rate:
+[   1/1000]  BER=0.0000e+00  SNR=20dB  JSR= 20dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[   2/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[   3/1000]  BER=9.7656e-04  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[   4/1000]  BER=9.7656e-04  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[   5/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[   6/1000]  BER=0.0000e+00  SNR=40dB  JSR=  5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[   7/1000]  BER=0.0000e+00  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[   8/1000]  BER=1.9531e-03  SNR=25dB  JSR= 10dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[   9/1000]  BER=9.7656e-04  SNR=40dB  JSR= 20dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  10/1000]  BER=0.0000e+00  SNR=30dB  JSR= 15dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  11/1000]  BER=9.7656e-04  SNR=20dB  JSR= 10dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  12/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  13/1000]  BER=9.7656e-04  SNR=40dB  JSR=  0dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  14/1000]  BER=1.9531e-03  SNR=25dB  JSR= 15dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  15/1000]  BER=0.0000e+00  SNR=30dB  JSR=  0dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  16/1000]  BER=1.9531e-03  SNR=30dB  JSR=  0dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  17/1000]  BER=9.7656e-04  SNR=25dB  JSR= 15dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  18/1000]  BER=9.7656e-04  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  19/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  20/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  21/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  22/1000]  BER=9.7656e-04  SNR=30dB  JSR=  0dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  23/1000]  BER=9.7656e-04  SNR=40dB  JSR= 20dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  24/1000]  BER=9.7656e-04  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  25/1000]  BER=1.9531e-03  SNR=35dB  JSR= 15dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  26/1000]  BER=9.7656e-04  SNR=35dB  JSR= 20dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  27/1000]  BER=0.0000e+00  SNR=30dB  JSR= 15dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  28/1000]  BER=0.0000e+00  SNR=20dB  JSR= 20dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  29/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  30/1000]  BER=9.7656e-04  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  31/1000]  BER=1.9531e-03  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  32/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  33/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  34/1000]  BER=9.7656e-04  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  35/1000]  BER=0.0000e+00  SNR=35dB  JSR=  5dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  36/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  37/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  38/1000]  BER=0.0000e+00  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  39/1000]  BER=0.0000e+00  SNR=40dB  JSR=  5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  40/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  41/1000]  BER=0.0000e+00  SNR=30dB  JSR=  5dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  42/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  43/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  44/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  45/1000]  BER=9.7656e-04  SNR=25dB  JSR=  5dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  46/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  47/1000]  BER=0.0000e+00  SNR=30dB  JSR= 20dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  48/1000]  BER=1.9531e-03  SNR=30dB  JSR= 15dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  49/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  50/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  51/1000]  BER=0.0000e+00  SNR=30dB  JSR=  5dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  52/1000]  BER=1.9531e-03  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  53/1000]  BER=1.9531e-03  SNR=20dB  JSR=  0dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  54/1000]  BER=9.7656e-04  SNR=35dB  JSR=  0dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  55/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  56/1000]  BER=0.0000e+00  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  57/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  58/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  59/1000]  BER=1.9531e-03  SNR=20dB  JSR= 15dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  60/1000]  BER=1.9531e-03  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  61/1000]  BER=0.0000e+00  SNR=40dB  JSR=  0dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  62/1000]  BER=0.0000e+00  SNR=40dB  JSR= 20dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  63/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  64/1000]  BER=9.7656e-04  SNR=25dB  JSR= 10dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  65/1000]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  66/1000]  BER=1.9531e-03  SNR=35dB  JSR= 20dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  67/1000]  BER=1.9531e-03  SNR=30dB  JSR=  0dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  68/1000]  BER=1.9531e-03  SNR=35dB  JSR= 10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  69/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  70/1000]  BER=9.7656e-04  SNR=30dB  JSR= 20dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  71/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  72/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  73/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  74/1000]  BER=0.0000e+00  SNR=20dB  JSR= 15dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  75/1000]  BER=0.0000e+00  SNR=35dB  JSR= 10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  76/1000]  BER=9.7656e-04  SNR=20dB  JSR=  0dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  77/1000]  BER=0.0000e+00  SNR=20dB  JSR=  5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  78/1000]  BER=0.0000e+00  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  79/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  80/1000]  BER=9.7656e-04  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  81/1000]  BER=9.7656e-04  SNR=35dB  JSR= 20dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  82/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  83/1000]  BER=0.0000e+00  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  84/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  85/1000]  BER=1.9531e-03  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  86/1000]  BER=9.7656e-04  SNR=20dB  JSR= 20dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  87/1000]  BER=9.7656e-04  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  88/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  89/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  90/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  91/1000]  BER=9.7656e-04  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  92/1000]  BER=1.9531e-03  SNR=35dB  JSR=  0dB  No Jamming noise var=3.1623e-04
+Bit Error Rate:
+[  93/1000]  BER=0.0000e+00  SNR=40dB  JSR= 15dB  No Jamming noise var=1.0000e-04
+Bit Error Rate:
+[  94/1000]  BER=1.9531e-03  SNR=25dB  JSR=  5dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  95/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  96/1000]  BER=9.7656e-04  SNR=20dB  JSR= 10dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[  97/1000]  BER=1.9531e-03  SNR=25dB  JSR= 20dB  No Jamming noise var=3.1623e-03
+Bit Error Rate:
+[  98/1000]  BER=9.7656e-04  SNR=30dB  JSR=  5dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[  99/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[ 100/1000]  BER=0.0000e+00  SNR=20dB  JSR= 15dB  No Jamming noise var=1.0000e-02
+Bit Error Rate:
+[ 101/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  No Jamming noise var=1.0000e-03
+Bit Error Rate:
+[ 102/1000]  BER=4.1016e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 103/1000]  BER=0.0000e+00  SNR=35dB  JSR=  0dB  single tone @ 9,411 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 104/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 105/1000]  BER=2.0801e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 106/1000]  BER=4.6094e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 107/1000]  BER=2.9297e-03  SNR=40dB  JSR= 15dB  single tone @ 10,706 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 108/1000]  BER=1.5625e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 109/1000]  BER=9.7656e-04  SNR=30dB  JSR=  0dB  single tone @ 9,722 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 110/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 111/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 112/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  single tone @ 10,885 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 113/1000]  BER=1.4551e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 114/1000]  BER=1.9531e-03  SNR=35dB  JSR= 10dB  single tone @ 10,702 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 115/1000]  BER=4.3066e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 116/1000]  BER=9.1797e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 117/1000]  BER=2.9688e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 118/1000]  BER=2.3242e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 119/1000]  BER=8.5938e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 120/1000]  BER=1.9531e-03  SNR=25dB  JSR=  5dB  single tone @ 9,187 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 121/1000]  BER=3.8477e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 122/1000]  BER=4.5898e-02  SNR=30dB  JSR=-10dB  single tone @ 10,000 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 123/1000]  BER=1.9531e-03  SNR=40dB  JSR=  0dB  single tone @ 10,971 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 124/1000]  BER=4.8633e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 125/1000]  BER=1.9531e-03  SNR=25dB  JSR= -5dB  single tone @ 9,597 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 126/1000]  BER=2.0410e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 127/1000]  BER=4.2285e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 128/1000]  BER=4.4141e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 129/1000]  BER=1.0742e-02  SNR=30dB  JSR= 20dB  single tone @ 10,271 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 130/1000]  BER=3.3496e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 131/1000]  BER=4.4336e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 132/1000]  BER=6.9336e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 133/1000]  BER=1.9531e-03  SNR=20dB  JSR= 15dB  single tone @ 9,727 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 134/1000]  BER=3.2617e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 135/1000]  BER=9.7656e-04  SNR=35dB  JSR= 10dB  single tone @ 9,323 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 136/1000]  BER=3.8965e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 137/1000]  BER=9.4727e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 138/1000]  BER=4.1895e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 139/1000]  BER=3.9453e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 140/1000]  BER=4.2383e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 141/1000]  BER=4.9316e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 142/1000]  BER=9.7656e-04  SNR=25dB  JSR= 20dB  single tone @ 8,977 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 143/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  single tone @ 8,997 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 144/1000]  BER=2.9980e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 145/1000]  BER=5.8594e-03  SNR=35dB  JSR= 20dB  single tone @ 9,119 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 146/1000]  BER=4.1504e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 147/1000]  BER=9.9609e-02  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 148/1000]  BER=2.4414e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 149/1000]  BER=5.8594e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 150/1000]  BER=2.2168e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 151/1000]  BER=2.9102e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 152/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  single tone @ 10,525 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 153/1000]  BER=3.5938e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 154/1000]  BER=4.3164e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 155/1000]  BER=4.4922e-02  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 156/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  single tone @ 10,581 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 157/1000]  BER=2.1973e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 158/1000]  BER=1.4648e-02  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 159/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  single tone @ 9,175 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 160/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  single tone @ 9,783 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 161/1000]  BER=4.5605e-01  SNR=35dB  JSR= 10dB  single tone @ 9,899 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 162/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  single tone @ 10,987 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 163/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  single tone @ 10,977 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 164/1000]  BER=9.7656e-04  SNR=40dB  JSR=  0dB  single tone @ 9,301 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 165/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  single tone @ 10,991 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 166/1000]  BER=4.1895e-01  SNR=20dB  JSR= 20dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 167/1000]  BER=4.0723e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 168/1000]  BER=3.7109e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 169/1000]  BER=1.5234e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 170/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 171/1000]  BER=3.8574e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 172/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  single tone @ 10,910 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 173/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  single tone @ 9,073 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 174/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  single tone @ 9,791 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 175/1000]  BER=0.0000e+00  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 176/1000]  BER=4.0234e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 177/1000]  BER=2.3828e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 178/1000]  BER=4.2188e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 179/1000]  BER=1.1426e-01  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 180/1000]  BER=9.7656e-04  SNR=25dB  JSR= 15dB  single tone @ 10,929 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 181/1000]  BER=2.4121e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 182/1000]  BER=4.8828e-03  SNR=25dB  JSR= 15dB  single tone @ 9,789 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 183/1000]  BER=8.0078e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 184/1000]  BER=1.9531e-03  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 185/1000]  BER=4.2969e-02  SNR=30dB  JSR=-10dB  single tone @ 10,073 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 186/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 187/1000]  BER=7.8125e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 188/1000]  BER=4.1309e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 189/1000]  BER=2.1387e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 190/1000]  BER=4.2285e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 191/1000]  BER=4.8828e-03  SNR=35dB  JSR= 20dB  single tone @ 10,513 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 192/1000]  BER=2.2363e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 193/1000]  BER=1.2109e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 194/1000]  BER=4.4336e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 195/1000]  BER=1.6602e-02  SNR=35dB  JSR= 20dB  single tone @ 10,220 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 196/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 197/1000]  BER=1.4648e-02  SNR=30dB  JSR= 15dB  single tone @ 9,825 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 198/1000]  BER=3.9648e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 199/1000]  BER=3.8086e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 200/1000]  BER=0.0000e+00  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 201/1000]  BER=3.6816e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 202/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 203/1000]  BER=1.9434e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 204/1000]  BER=3.6426e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 205/1000]  BER=2.0020e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 206/1000]  BER=4.1895e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 207/1000]  BER=9.7656e-04  SNR=25dB  JSR= 10dB  single tone @ 9,423 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 208/1000]  BER=1.1426e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 209/1000]  BER=1.9531e-03  SNR=40dB  JSR= 10dB  single tone @ 9,506 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 210/1000]  BER=3.6328e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 211/1000]  BER=9.7656e-04  SNR=35dB  JSR=  5dB  single tone @ 10,825 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 212/1000]  BER=3.1641e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 213/1000]  BER=3.7793e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 214/1000]  BER=4.2285e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 215/1000]  BER=3.9453e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 216/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 217/1000]  BER=3.9453e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 218/1000]  BER=4.6191e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 219/1000]  BER=1.9922e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 220/1000]  BER=4.3750e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 221/1000]  BER=3.9062e-03  SNR=30dB  JSR= 20dB  single tone @ 9,091 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 222/1000]  BER=9.2773e-02  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 223/1000]  BER=1.9531e-03  SNR=25dB  JSR= 15dB  single tone @ 10,314 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 224/1000]  BER=2.2266e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 225/1000]  BER=1.9531e-03  SNR=25dB  JSR= 10dB  single tone @ 9,230 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 226/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  single tone @ 10,322 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 227/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 228/1000]  BER=3.7695e-01  SNR=20dB  JSR=  5dB  single tone @ 10,099 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 229/1000]  BER=2.9297e-03  SNR=30dB  JSR=  0dB  single tone @ 10,827 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 230/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 231/1000]  BER=5.0879e-01  SNR=30dB  JSR= 20dB  single tone @ 10,070 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 232/1000]  BER=1.9531e-03  SNR=35dB  JSR=  5dB  single tone @ 10,212 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 233/1000]  BER=4.5410e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 234/1000]  BER=2.3242e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 235/1000]  BER=4.8828e-03  SNR=30dB  JSR= 20dB  single tone @ 10,397 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 236/1000]  BER=2.5586e-01  SNR=20dB  JSR= 10dB  single tone @ 10,000 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 237/1000]  BER=1.9531e-03  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 238/1000]  BER=5.8594e-03  SNR=20dB  JSR= 20dB  single tone @ 10,727 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 239/1000]  BER=2.7930e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 240/1000]  BER=3.8281e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 241/1000]  BER=1.3086e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 242/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  single tone @ 9,676 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 243/1000]  BER=3.7891e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 244/1000]  BER=4.1016e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 245/1000]  BER=9.7656e-04  SNR=25dB  JSR= 10dB  single tone @ 10,707 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 246/1000]  BER=4.2871e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 247/1000]  BER=0.0000e+00  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 248/1000]  BER=1.9141e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 249/1000]  BER=2.4902e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 250/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  single tone @ 10,178 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 251/1000]  BER=1.0449e-01  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 252/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 253/1000]  BER=2.0117e-01  SNR=30dB  JSR=  5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 254/1000]  BER=3.6035e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 255/1000]  BER=1.3379e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 256/1000]  BER=2.0508e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 257/1000]  BER=9.7656e-04  SNR=25dB  JSR=  5dB  single tone @ 10,496 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 258/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  single tone @ 10,709 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 259/1000]  BER=8.0078e-02  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 260/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 261/1000]  BER=3.4961e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 262/1000]  BER=9.0820e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 263/1000]  BER=2.8125e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 264/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 265/1000]  BER=1.9531e-03  SNR=30dB  JSR= -5dB  single tone @ 9,279 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 266/1000]  BER=2.1875e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 267/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 268/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 269/1000]  BER=2.9297e-03  SNR=20dB  JSR= 20dB  single tone @ 9,298 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 270/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 271/1000]  BER=4.1602e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 272/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  single tone @ 9,107 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 273/1000]  BER=2.1973e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 274/1000]  BER=9.9609e-02  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 275/1000]  BER=1.7578e-02  SNR=20dB  JSR=-10dB  single tone @ 10,089 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 276/1000]  BER=4.0527e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 277/1000]  BER=2.9297e-03  SNR=25dB  JSR= 15dB  single tone @ 9,020 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 278/1000]  BER=0.0000e+00  SNR=40dB  JSR=  0dB  single tone @ 10,592 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 279/1000]  BER=9.7656e-04  SNR=20dB  JSR= 15dB  single tone @ 9,470 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 280/1000]  BER=1.6602e-02  SNR=30dB  JSR= 20dB  single tone @ 9,778 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 281/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 10,877 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 282/1000]  BER=1.9531e-03  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 283/1000]  BER=3.7891e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 284/1000]  BER=3.3887e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 285/1000]  BER=3.6035e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 286/1000]  BER=4.4238e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 287/1000]  BER=9.4727e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 288/1000]  BER=2.8418e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 289/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  single tone @ 9,079 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 290/1000]  BER=1.9531e-03  SNR=25dB  JSR= 15dB  single tone @ 9,570 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 291/1000]  BER=6.8359e-03  SNR=25dB  JSR= 20dB  single tone @ 9,728 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 292/1000]  BER=3.9551e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 293/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  single tone @ 10,114 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 294/1000]  BER=2.9297e-03  SNR=25dB  JSR= 15dB  single tone @ 10,229 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 295/1000]  BER=2.9297e-03  SNR=35dB  JSR= 15dB  single tone @ 10,994 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 296/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 297/1000]  BER=3.4473e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 298/1000]  BER=3.0859e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 299/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 300/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  single tone @ 10,676 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 301/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 302/1000]  BER=1.9531e-03  SNR=40dB  JSR= 15dB  single tone @ 10,389 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 303/1000]  BER=7.8125e-03  SNR=30dB  JSR= 20dB  single tone @ 10,272 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 304/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 305/1000]  BER=1.9531e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 306/1000]  BER=3.0566e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 307/1000]  BER=1.9531e-03  SNR=25dB  JSR= 10dB  single tone @ 9,595 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 308/1000]  BER=3.6914e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 309/1000]  BER=2.5098e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 310/1000]  BER=5.8594e-03  SNR=25dB  JSR= 20dB  single tone @ 10,373 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 311/1000]  BER=1.9531e-03  SNR=25dB  JSR=  5dB  single tone @ 10,274 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 312/1000]  BER=9.7656e-04  SNR=35dB  JSR= 10dB  single tone @ 9,673 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 313/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 314/1000]  BER=4.9609e-01  SNR=30dB  JSR= 15dB  single tone @ 10,089 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 315/1000]  BER=4.3652e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 316/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 317/1000]  BER=9.1797e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 318/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  single tone @ 10,193 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 319/1000]  BER=9.0820e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 320/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  single tone @ 10,415 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 321/1000]  BER=4.4922e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 322/1000]  BER=3.3105e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 323/1000]  BER=2.2852e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 324/1000]  BER=3.9453e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 325/1000]  BER=4.3164e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 326/1000]  BER=4.4336e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 327/1000]  BER=1.0938e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 328/1000]  BER=9.7656e-04  SNR=40dB  JSR= 15dB  single tone @ 9,302 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 329/1000]  BER=7.3242e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 330/1000]  BER=4.4336e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 331/1000]  BER=3.2227e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 332/1000]  BER=1.9141e-01  SNR=25dB  JSR= -5dB  single tone @ 9,871 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 333/1000]  BER=9.7656e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 334/1000]  BER=2.6465e-01  SNR=35dB  JSR= -5dB  single tone @ 10,000 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 335/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 336/1000]  BER=3.2617e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 337/1000]  BER=1.6895e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 338/1000]  BER=9.7656e-04  SNR=35dB  JSR=  0dB  single tone @ 9,475 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 339/1000]  BER=4.3066e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 340/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  single tone @ 10,778 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 341/1000]  BER=4.5410e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 342/1000]  BER=9.7656e-04  SNR=35dB  JSR=  0dB  single tone @ 9,427 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 343/1000]  BER=6.8359e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 344/1000]  BER=1.4551e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 345/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 346/1000]  BER=4.4922e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 347/1000]  BER=4.3066e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 348/1000]  BER=3.1348e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 349/1000]  BER=9.7656e-04  SNR=35dB  JSR=  5dB  single tone @ 10,522 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 350/1000]  BER=3.8770e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 351/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  single tone @ 9,719 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 352/1000]  BER=9.7656e-04  SNR=25dB  JSR=  5dB  single tone @ 9,304 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 353/1000]  BER=1.0156e-01  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 354/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  single tone @ 10,910 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 355/1000]  BER=3.4766e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 356/1000]  BER=2.6270e-01  SNR=30dB  JSR=  5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 357/1000]  BER=3.0176e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 358/1000]  BER=1.9531e-03  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 359/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 360/1000]  BER=3.8574e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 361/1000]  BER=8.3984e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 362/1000]  BER=8.9844e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 363/1000]  BER=1.5820e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 364/1000]  BER=3.6816e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 365/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  single tone @ 10,687 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 366/1000]  BER=4.3750e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 367/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  single tone @ 10,997 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 368/1000]  BER=4.8047e-01  SNR=30dB  JSR= 15dB  single tone @ 9,907 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 369/1000]  BER=1.0352e-01  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 370/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  single tone @ 10,524 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 371/1000]  BER=3.2227e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 372/1000]  BER=2.2656e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 373/1000]  BER=1.2695e-02  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 374/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 375/1000]  BER=1.1621e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 376/1000]  BER=4.5117e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 377/1000]  BER=0.0000e+00  SNR=35dB  JSR= 15dB  single tone @ 9,310 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 378/1000]  BER=0.0000e+00  SNR=35dB  JSR=  0dB  single tone @ 9,299 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 379/1000]  BER=2.4414e-02  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 380/1000]  BER=4.8438e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 381/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 382/1000]  BER=3.9648e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 383/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 384/1000]  BER=2.4219e-01  SNR=30dB  JSR=  5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 385/1000]  BER=4.2090e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 386/1000]  BER=1.0352e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 387/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 9,674 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 388/1000]  BER=2.9297e-03  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 389/1000]  BER=1.9531e-03  SNR=20dB  JSR= 15dB  single tone @ 9,301 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 390/1000]  BER=4.8242e-01  SNR=30dB  JSR=  0dB  single tone @ 10,000 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 391/1000]  BER=9.7656e-04  SNR=40dB  JSR=  0dB  single tone @ 9,322 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 392/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 393/1000]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  single tone @ 9,696 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 394/1000]  BER=3.9355e-01  SNR=25dB  JSR=  5dB  single tone @ 10,076 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 395/1000]  BER=3.2617e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 396/1000]  BER=1.9531e-03  SNR=40dB  JSR= 10dB  single tone @ 10,703 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 397/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 10,692 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 398/1000]  BER=9.3750e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 399/1000]  BER=1.9531e-03  SNR=20dB  JSR= 15dB  single tone @ 10,483 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 400/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  single tone @ 10,281 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 401/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 402/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 403/1000]  BER=3.6914e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 404/1000]  BER=3.1250e-01  SNR=20dB  JSR= 10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 405/1000]  BER=4.6191e-01  SNR=35dB  JSR= 10dB  single tone @ 9,913 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 406/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 8,982 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 407/1000]  BER=9.3750e-02  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 408/1000]  BER=1.0449e-01  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 409/1000]  BER=1.9531e-03  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 410/1000]  BER=4.0234e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 411/1000]  BER=3.1934e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 412/1000]  BER=2.9688e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 413/1000]  BER=3.2324e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 414/1000]  BER=4.5215e-01  SNR=20dB  JSR= 20dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 415/1000]  BER=4.3262e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 416/1000]  BER=5.8594e-03  SNR=20dB  JSR= 20dB  single tone @ 9,309 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 417/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 418/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 419/1000]  BER=0.0000e+00  SNR=40dB  JSR=  5dB  single tone @ 11,001 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 420/1000]  BER=9.7656e-04  SNR=35dB  JSR=  0dB  single tone @ 10,607 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 421/1000]  BER=3.1738e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 422/1000]  BER=8.9844e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 423/1000]  BER=0.0000e+00  SNR=35dB  JSR=  0dB  single tone @ 9,619 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 424/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 425/1000]  BER=0.0000e+00  SNR=30dB  JSR= 20dB  single tone @ 10,982 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 426/1000]  BER=4.1699e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 427/1000]  BER=8.9844e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 428/1000]  BER=3.9453e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 429/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 430/1000]  BER=4.9805e-01  SNR=25dB  JSR= 20dB  single tone @ 10,000 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 431/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 432/1000]  BER=2.1484e-02  SNR=30dB  JSR= 20dB  single tone @ 9,812 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 433/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 434/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 435/1000]  BER=4.6484e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 436/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  single tone @ 9,529 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 437/1000]  BER=1.9531e-03  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 438/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 439/1000]  BER=3.2227e-01  SNR=25dB  JSR= -5dB  single tone @ 9,929 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 440/1000]  BER=1.3574e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 441/1000]  BER=9.5703e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 442/1000]  BER=4.8828e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 443/1000]  BER=3.7793e-01  SNR=40dB  JSR=  0dB  single tone @ 10,114 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 444/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  single tone @ 9,091 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 445/1000]  BER=3.0176e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 446/1000]  BER=3.8672e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 447/1000]  BER=2.9980e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 448/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  single tone @ 10,529 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 449/1000]  BER=8.7891e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 450/1000]  BER=4.3359e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 451/1000]  BER=3.8477e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 452/1000]  BER=1.0254e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 453/1000]  BER=3.3887e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 454/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  single tone @ 10,679 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 455/1000]  BER=1.0059e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 456/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 457/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 458/1000]  BER=2.9688e-01  SNR=30dB  JSR= -5dB  single tone @ 9,902 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 459/1000]  BER=8.8867e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 460/1000]  BER=8.1055e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 461/1000]  BER=2.9395e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 462/1000]  BER=2.0703e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 463/1000]  BER=3.7109e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 464/1000]  BER=2.3535e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 465/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  single tone @ 10,606 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 466/1000]  BER=4.8828e-03  SNR=40dB  JSR= 20dB  single tone @ 10,370 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 467/1000]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  single tone @ 9,002 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 468/1000]  BER=3.2910e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 469/1000]  BER=2.8516e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 470/1000]  BER=1.0547e-01  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 471/1000]  BER=3.9062e-03  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 472/1000]  BER=0.0000e+00  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 473/1000]  BER=4.3359e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 474/1000]  BER=7.8125e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 475/1000]  BER=9.4727e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 476/1000]  BER=3.1543e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 477/1000]  BER=3.5059e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 478/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  single tone @ 10,383 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 479/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 480/1000]  BER=4.3555e-01  SNR=20dB  JSR= 20dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 481/1000]  BER=9.7656e-04  SNR=20dB  JSR= 15dB  single tone @ 9,726 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 482/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 483/1000]  BER=3.9062e-03  SNR=40dB  JSR= 20dB  single tone @ 8,991 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 484/1000]  BER=2.1777e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 485/1000]  BER=4.8828e-01  SNR=25dB  JSR= 20dB  single tone @ 9,905 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 486/1000]  BER=3.2129e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 487/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  single tone @ 8,991 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 488/1000]  BER=4.3457e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 489/1000]  BER=3.7012e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 490/1000]  BER=3.9844e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 491/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  single tone @ 10,807 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 492/1000]  BER=2.0508e-02  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 493/1000]  BER=9.8633e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 494/1000]  BER=4.7754e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 495/1000]  BER=3.9062e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 496/1000]  BER=3.7598e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 497/1000]  BER=2.8418e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 498/1000]  BER=2.1484e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 499/1000]  BER=9.7656e-04  SNR=25dB  JSR=  0dB  single tone @ 10,697 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 500/1000]  BER=3.8477e-01  SNR=25dB  JSR=  0dB  single tone @ 9,884 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 501/1000]  BER=4.5117e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 502/1000]  BER=4.5703e-01  SNR=20dB  JSR= 20dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 503/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 504/1000]  BER=0.0000e+00  SNR=35dB  JSR=  0dB  single tone @ 10,404 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 505/1000]  BER=7.3242e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 506/1000]  BER=1.9531e-03  SNR=25dB  JSR= 15dB  single tone @ 8,977 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 507/1000]  BER=3.7891e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 508/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  single tone @ 10,410 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 509/1000]  BER=9.7656e-04  SNR=30dB  JSR=  0dB  single tone @ 9,118 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 510/1000]  BER=0.0000e+00  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 511/1000]  BER=4.2090e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 512/1000]  BER=2.2559e-01  SNR=20dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 513/1000]  BER=1.0352e-01  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 514/1000]  BER=8.8867e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 515/1000]  BER=3.9844e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 516/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 517/1000]  BER=7.8125e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 518/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  single tone @ 9,426 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 519/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 10,623 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 520/1000]  BER=3.3789e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 521/1000]  BER=3.9062e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 522/1000]  BER=5.8594e-03  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 523/1000]  BER=3.9355e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 524/1000]  BER=3.9062e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 525/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  single tone @ 10,184 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 526/1000]  BER=8.2031e-02  SNR=40dB  JSR=-10dB  single tone @ 10,000 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 527/1000]  BER=2.2754e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 528/1000]  BER=4.8535e-01  SNR=25dB  JSR= 20dB  single tone @ 10,077 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 529/1000]  BER=9.9609e-02  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 530/1000]  BER=2.9297e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 531/1000]  BER=3.2617e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 532/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 10,216 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 533/1000]  BER=4.8633e-01  SNR=25dB  JSR= 20dB  single tone @ 10,000 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 534/1000]  BER=5.8594e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 535/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  single tone @ 9,271 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 536/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  single tone @ 10,517 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 537/1000]  BER=3.1641e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 538/1000]  BER=4.3359e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 539/1000]  BER=1.2793e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 540/1000]  BER=2.3926e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 541/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  single tone @ 10,624 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 542/1000]  BER=3.2324e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 543/1000]  BER=1.7676e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 544/1000]  BER=4.8828e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 545/1000]  BER=4.4531e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 546/1000]  BER=0.0000e+00  SNR=20dB  JSR= 10dB  single tone @ 10,887 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 547/1000]  BER=1.6504e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 548/1000]  BER=4.1211e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 549/1000]  BER=0.0000e+00  SNR=30dB  JSR=  0dB  single tone @ 9,200 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 550/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 551/1000]  BER=1.0449e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 552/1000]  BER=1.9531e-03  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 553/1000]  BER=2.6660e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 554/1000]  BER=4.1113e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 555/1000]  BER=3.2812e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 556/1000]  BER=9.7656e-04  SNR=35dB  JSR=  5dB  single tone @ 10,691 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 557/1000]  BER=3.2520e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 558/1000]  BER=9.1797e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 559/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 560/1000]  BER=0.0000e+00  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 561/1000]  BER=1.5137e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 562/1000]  BER=1.9531e-03  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 563/1000]  BER=9.5703e-02  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 564/1000]  BER=4.5312e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 565/1000]  BER=4.3457e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 566/1000]  BER=9.7656e-04  SNR=35dB  JSR=  0dB  single tone @ 9,013 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 567/1000]  BER=9.7656e-04  SNR=40dB  JSR=  5dB  single tone @ 9,514 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 568/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  single tone @ 10,717 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 569/1000]  BER=3.5938e-01  SNR=20dB  JSR=  0dB  single tone @ 9,908 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 570/1000]  BER=8.7891e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 571/1000]  BER=9.7656e-04  SNR=35dB  JSR= 10dB  single tone @ 9,583 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 572/1000]  BER=4.4824e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 573/1000]  BER=8.4961e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 574/1000]  BER=8.3984e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 575/1000]  BER=2.2461e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 576/1000]  BER=0.0000e+00  SNR=40dB  JSR=  0dB  single tone @ 8,996 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 577/1000]  BER=4.0527e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 578/1000]  BER=3.9062e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 579/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 580/1000]  BER=6.1523e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 581/1000]  BER=2.0508e-02  SNR=35dB  JSR= 20dB  single tone @ 10,186 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 582/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 583/1000]  BER=6.8359e-03  SNR=35dB  JSR= 20dB  single tone @ 9,591 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 584/1000]  BER=8.9844e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 585/1000]  BER=2.9492e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 586/1000]  BER=4.1895e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 587/1000]  BER=2.6074e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 588/1000]  BER=1.7090e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 589/1000]  BER=5.8594e-03  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 590/1000]  BER=4.3555e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 591/1000]  BER=3.6035e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 592/1000]  BER=3.7988e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 593/1000]  BER=1.9531e-03  SNR=35dB  JSR=  5dB  single tone @ 9,806 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 594/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 595/1000]  BER=3.9062e-03  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 596/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  single tone @ 9,294 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 597/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  single tone @ 10,509 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 598/1000]  BER=1.4648e-02  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 599/1000]  BER=4.4922e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 600/1000]  BER=9.7656e-04  SNR=35dB  JSR= 10dB  single tone @ 11,010 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 601/1000]  BER=3.2422e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 602/1000]  BER=1.0254e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 603/1000]  BER=0.0000e+00  SNR=35dB  JSR= 15dB  single tone @ 10,783 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 604/1000]  BER=3.7793e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 605/1000]  BER=5.8594e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 606/1000]  BER=4.3652e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 607/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  single tone @ 9,480 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 608/1000]  BER=4.5020e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 609/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 610/1000]  BER=3.6914e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 611/1000]  BER=3.7695e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 612/1000]  BER=1.1523e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 613/1000]  BER=1.8555e-02  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 614/1000]  BER=9.9609e-02  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 615/1000]  BER=1.9531e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 616/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 617/1000]  BER=9.7656e-04  SNR=20dB  JSR=  0dB  single tone @ 10,311 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 618/1000]  BER=2.3926e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 619/1000]  BER=7.8125e-03  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 620/1000]  BER=8.0078e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 621/1000]  BER=2.3242e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 622/1000]  BER=0.0000e+00  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 623/1000]  BER=3.2910e-01  SNR=30dB  JSR=  5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 624/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  single tone @ 10,725 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 625/1000]  BER=3.7109e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 626/1000]  BER=3.5059e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 627/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 628/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  single tone @ 10,410 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 629/1000]  BER=1.5332e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 630/1000]  BER=2.9297e-03  SNR=30dB  JSR= 15dB  single tone @ 9,130 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 631/1000]  BER=2.1875e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 632/1000]  BER=1.8848e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 633/1000]  BER=4.8828e-03  SNR=30dB  JSR= 20dB  single tone @ 10,374 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 634/1000]  BER=1.0645e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 635/1000]  BER=2.8711e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 636/1000]  BER=3.8281e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 637/1000]  BER=4.4043e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 638/1000]  BER=2.9980e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 639/1000]  BER=4.2578e-01  SNR=35dB  JSR= 15dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 640/1000]  BER=0.0000e+00  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 641/1000]  BER=1.3477e-01  SNR=40dB  JSR= 15dB  single tone @ 9,828 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 642/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  single tone @ 10,714 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 643/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 644/1000]  BER=3.2617e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 645/1000]  BER=3.0762e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 646/1000]  BER=3.4668e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 647/1000]  BER=1.2012e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 648/1000]  BER=4.4336e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 649/1000]  BER=8.7891e-03  SNR=25dB  JSR= 15dB  single tone @ 9,822 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 650/1000]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 651/1000]  BER=4.3164e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 652/1000]  BER=3.8672e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 653/1000]  BER=3.1836e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 654/1000]  BER=5.1660e-01  SNR=40dB  JSR= 10dB  single tone @ 10,000 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 655/1000]  BER=3.5742e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 656/1000]  BER=1.9531e-03  SNR=40dB  JSR= -5dB  single tone @ 9,090 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 657/1000]  BER=3.9062e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 658/1000]  BER=2.3535e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 659/1000]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 660/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 661/1000]  BER=2.3828e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 662/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 663/1000]  BER=2.0215e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 664/1000]  BER=3.3594e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 665/1000]  BER=4.8828e-03  SNR=35dB  JSR= 20dB  single tone @ 10,588 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 666/1000]  BER=2.5684e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 667/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 668/1000]  BER=3.7109e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 669/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 670/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 671/1000]  BER=9.4727e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 672/1000]  BER=3.9844e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 673/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  single tone @ 9,505 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 674/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 675/1000]  BER=4.3066e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 676/1000]  BER=2.3828e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 677/1000]  BER=1.9531e-03  SNR=30dB  JSR= 20dB  single tone @ 9,028 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 678/1000]  BER=1.4258e-01  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 679/1000]  BER=3.7988e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 680/1000]  BER=2.5000e-01  SNR=25dB  JSR= -5dB  single tone @ 10,000 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 681/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  single tone @ 9,274 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 682/1000]  BER=3.1055e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 683/1000]  BER=9.0820e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 684/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 685/1000]  BER=4.2188e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 686/1000]  BER=1.4648e-02  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 687/1000]  BER=2.5391e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 688/1000]  BER=2.2363e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 689/1000]  BER=1.9531e-03  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 690/1000]  BER=0.0000e+00  SNR=35dB  JSR= 10dB  single tone @ 9,103 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 691/1000]  BER=4.8047e-01  SNR=40dB  JSR= 15dB  single tone @ 10,089 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 692/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 9,694 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 693/1000]  BER=4.1504e-01  SNR=35dB  JSR= 15dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 694/1000]  BER=1.9531e-03  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 695/1000]  BER=2.1191e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 696/1000]  BER=1.9531e-03  SNR=40dB  JSR= 15dB  single tone @ 10,493 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 697/1000]  BER=3.6328e-01  SNR=40dB  JSR=  0dB  single tone @ 10,095 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 698/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 699/1000]  BER=4.9121e-01  SNR=35dB  JSR= 20dB  single tone @ 10,000 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 700/1000]  BER=6.9336e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 701/1000]  BER=3.4180e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 702/1000]  BER=1.9531e-03  SNR=40dB  JSR= 20dB  single tone @ 9,106 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 703/1000]  BER=4.0625e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 704/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 705/1000]  BER=0.0000e+00  SNR=25dB  JSR=  0dB  single tone @ 10,897 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 706/1000]  BER=7.8125e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 707/1000]  BER=4.0820e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 708/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  single tone @ 10,399 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 709/1000]  BER=3.0762e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 710/1000]  BER=4.4043e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 711/1000]  BER=3.9160e-01  SNR=40dB  JSR=  5dB  single tone @ 9,915 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 712/1000]  BER=3.2520e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 713/1000]  BER=1.7969e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 714/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 715/1000]  BER=3.0469e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 716/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  single tone @ 9,220 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 717/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 718/1000]  BER=1.9531e-03  SNR=35dB  JSR=  0dB  single tone @ 9,216 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 719/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 720/1000]  BER=2.3926e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 721/1000]  BER=4.1504e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 722/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 723/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 724/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 725/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 726/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 727/1000]  BER=2.3828e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 728/1000]  BER=3.6426e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 729/1000]  BER=4.1504e-01  SNR=20dB  JSR= 10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 730/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  single tone @ 10,493 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 731/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  single tone @ 11,020 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 732/1000]  BER=4.4434e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 733/1000]  BER=5.0000e-01  SNR=35dB  JSR= 10dB  single tone @ 10,000 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 734/1000]  BER=2.9297e-03  SNR=30dB  JSR= 20dB  single tone @ 10,903 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 735/1000]  BER=3.2617e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 736/1000]  BER=3.3887e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 737/1000]  BER=3.3691e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 738/1000]  BER=4.2676e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 739/1000]  BER=3.8086e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 740/1000]  BER=2.9297e-03  SNR=35dB  JSR= 10dB  single tone @ 9,710 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 741/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 742/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 743/1000]  BER=2.3730e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 744/1000]  BER=8.3984e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 745/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  single tone @ 10,399 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 746/1000]  BER=4.4043e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 747/1000]  BER=3.0664e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 748/1000]  BER=0.0000e+00  SNR=35dB  JSR= 20dB  single tone @ 9,076 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 749/1000]  BER=3.1055e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 750/1000]  BER=2.8320e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 751/1000]  BER=3.9551e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 752/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  single tone @ 9,478 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 753/1000]  BER=2.5391e-02  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 754/1000]  BER=2.5879e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 755/1000]  BER=1.9531e-03  SNR=25dB  JSR=  5dB  single tone @ 9,307 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 756/1000]  BER=3.1445e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 757/1000]  BER=2.3926e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 758/1000]  BER=3.0762e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 759/1000]  BER=3.7988e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 760/1000]  BER=3.2617e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 761/1000]  BER=3.9941e-01  SNR=30dB  JSR=  0dB  single tone @ 10,100 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 762/1000]  BER=3.9062e-03  SNR=30dB  JSR= 20dB  single tone @ 10,871 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 763/1000]  BER=1.6602e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 764/1000]  BER=4.1797e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 765/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  single tone @ 9,871 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 766/1000]  BER=4.9414e-01  SNR=30dB  JSR= 15dB  single tone @ 10,000 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 767/1000]  BER=1.0254e-01  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 768/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 769/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 770/1000]  BER=9.7656e-04  SNR=30dB  JSR= 10dB  single tone @ 9,191 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 771/1000]  BER=2.2656e-01  SNR=20dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 772/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 773/1000]  BER=4.4727e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 774/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 775/1000]  BER=3.2031e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 776/1000]  BER=3.7598e-01  SNR=35dB  JSR= 15dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 777/1000]  BER=1.0449e-01  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 778/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 779/1000]  BER=3.0957e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 780/1000]  BER=1.0449e-01  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 781/1000]  BER=1.0156e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 782/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 783/1000]  BER=8.7891e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 784/1000]  BER=9.7656e-04  SNR=25dB  JSR= 10dB  single tone @ 10,928 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 785/1000]  BER=3.8770e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 786/1000]  BER=0.0000e+00  SNR=30dB  JSR= 15dB  single tone @ 9,380 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 787/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 788/1000]  BER=1.9531e-03  SNR=40dB  JSR= 15dB  single tone @ 9,474 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 789/1000]  BER=3.7500e-01  SNR=30dB  JSR=  0dB  single tone @ 9,893 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 790/1000]  BER=1.0547e-01  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 791/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 792/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  single tone @ 10,673 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 793/1000]  BER=2.8516e-01  SNR=40dB  JSR= 10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 794/1000]  BER=1.4648e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 795/1000]  BER=0.0000e+00  SNR=25dB  JSR=  5dB  single tone @ 9,392 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 796/1000]  BER=8.2031e-02  SNR=30dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 797/1000]  BER=1.4746e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 798/1000]  BER=4.4531e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 799/1000]  BER=1.4551e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 800/1000]  BER=2.7930e-01  SNR=20dB  JSR= 10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 801/1000]  BER=2.2266e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 802/1000]  BER=8.6914e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 803/1000]  BER=2.1191e-01  SNR=20dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 804/1000]  BER=1.9531e-03  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 805/1000]  BER=1.9531e-03  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 806/1000]  BER=1.9531e-03  SNR=40dB  JSR=  0dB  single tone @ 10,891 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 807/1000]  BER=2.9590e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 808/1000]  BER=4.7461e-01  SNR=35dB  JSR= 20dB  single tone @ 9,923 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 809/1000]  BER=2.9492e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 810/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 811/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 812/1000]  BER=4.5215e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 813/1000]  BER=1.7578e-02  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 814/1000]  BER=1.4844e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 815/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 816/1000]  BER=2.9297e-02  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 817/1000]  BER=9.1797e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 818/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  single tone @ 10,430 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 819/1000]  BER=1.9531e-03  SNR=25dB  JSR= 20dB  single tone @ 9,020 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 820/1000]  BER=4.1895e-01  SNR=25dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 821/1000]  BER=3.1055e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 822/1000]  BER=2.9297e-03  SNR=25dB  JSR=  5dB  single tone @ 9,022 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 823/1000]  BER=4.2773e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 824/1000]  BER=1.9531e-03  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 825/1000]  BER=2.5000e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 826/1000]  BER=3.9062e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 827/1000]  BER=9.7656e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 828/1000]  BER=8.7891e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 829/1000]  BER=7.8125e-02  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 830/1000]  BER=1.9531e-03  SNR=40dB  JSR= 15dB  single tone @ 10,376 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 831/1000]  BER=1.9531e-03  SNR=35dB  JSR=  0dB  single tone @ 10,896 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 832/1000]  BER=9.7656e-04  SNR=30dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 833/1000]  BER=3.0273e-02  SNR=30dB  JSR= -5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 834/1000]  BER=2.9297e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 835/1000]  BER=3.2422e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 836/1000]  BER=1.9531e-03  SNR=30dB  JSR= 10dB  single tone @ 9,516 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 837/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 838/1000]  BER=3.6816e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 839/1000]  BER=3.9062e-03  SNR=25dB  JSR= 20dB  single tone @ 9,117 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 840/1000]  BER=7.4219e-02  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 841/1000]  BER=2.3438e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 842/1000]  BER=3.8281e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 843/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 844/1000]  BER=2.9297e-03  SNR=40dB  JSR= 15dB  single tone @ 9,691 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 845/1000]  BER=9.7656e-04  SNR=30dB  JSR=  5dB  single tone @ 10,616 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 846/1000]  BER=1.9531e-03  SNR=35dB  JSR=  5dB  single tone @ 10,810 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 847/1000]  BER=3.9062e-03  SNR=40dB  JSR= 20dB  single tone @ 9,207 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 848/1000]  BER=3.1738e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 849/1000]  BER=1.0938e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 850/1000]  BER=1.9824e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 851/1000]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  single tone @ 10,494 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 852/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 853/1000]  BER=1.6309e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 854/1000]  BER=5.8594e-03  SNR=30dB  JSR=-10dB  single tone @ 10,106 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 855/1000]  BER=2.5586e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 856/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 857/1000]  BER=3.7109e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 858/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 859/1000]  BER=2.4414e-02  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 860/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 861/1000]  BER=4.2773e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 862/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 863/1000]  BER=8.5938e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 864/1000]  BER=9.7656e-04  SNR=30dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 865/1000]  BER=4.6387e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 866/1000]  BER=1.5820e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 867/1000]  BER=3.0469e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 868/1000]  BER=4.2383e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 869/1000]  BER=4.4434e-01  SNR=40dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 870/1000]  BER=9.7656e-04  SNR=25dB  JSR= 10dB  single tone @ 9,118 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 871/1000]  BER=2.2266e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 872/1000]  BER=0.0000e+00  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 873/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 874/1000]  BER=3.2227e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 875/1000]  BER=3.9355e-01  SNR=20dB  JSR= 15dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 876/1000]  BER=3.9258e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 877/1000]  BER=2.2363e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 878/1000]  BER=3.0664e-01  SNR=40dB  JSR= -5dB  single tone @ 9,911 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 879/1000]  BER=0.0000e+00  SNR=20dB  JSR=-10dB  single tone @ 10,000 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 880/1000]  BER=3.3496e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 881/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  single tone @ 10,204 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 882/1000]  BER=4.0039e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 883/1000]  BER=0.0000e+00  SNR=30dB  JSR= 15dB  single tone @ 9,614 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 884/1000]  BER=1.4355e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 885/1000]  BER=3.0273e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 886/1000]  BER=9.2773e-02  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 887/1000]  BER=1.9531e-03  SNR=35dB  JSR=  0dB  single tone @ 10,481 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 888/1000]  BER=3.0664e-01  SNR=40dB  JSR=  5dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 889/1000]  BER=3.0273e-01  SNR=30dB  JSR=  5dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 890/1000]  BER=4.2383e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 891/1000]  BER=3.7012e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 892/1000]  BER=2.0996e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 893/1000]  BER=3.9551e-01  SNR=20dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 894/1000]  BER=2.9785e-01  SNR=20dB  JSR= 10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 895/1000]  BER=1.0938e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 896/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  single tone @ 10,595 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 897/1000]  BER=4.8828e-03  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 898/1000]  BER=3.0273e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 899/1000]  BER=2.9395e-01  SNR=25dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 900/1000]  BER=3.8672e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 901/1000]  BER=3.8965e-01  SNR=30dB  JSR=  5dB  single tone @ 9,901 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 902/1000]  BER=0.0000e+00  SNR=30dB  JSR=  5dB  single tone @ 10,318 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 903/1000]  BER=1.9531e-03  SNR=20dB  JSR=  0dB  single tone @ 9,310 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 904/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  single tone @ 9,692 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 905/1000]  BER=0.0000e+00  SNR=30dB  JSR= 15dB  single tone @ 9,405 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 906/1000]  BER=0.0000e+00  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 907/1000]  BER=0.0000e+00  SNR=40dB  JSR=-10dB  single tone @ 10,386 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 908/1000]  BER=9.7656e-04  SNR=20dB  JSR=  0dB  single tone @ 9,598 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 909/1000]  BER=1.9531e-03  SNR=20dB  JSR=-10dB  single tone @ 9,823 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 910/1000]  BER=2.1777e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 911/1000]  BER=9.7656e-04  SNR=20dB  JSR=  5dB  single tone @ 9,584 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 912/1000]  BER=1.4453e-01  SNR=20dB  JSR=  0dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 913/1000]  BER=3.5547e-01  SNR=35dB  JSR=  0dB  single tone @ 10,127 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 914/1000]  BER=3.2910e-01  SNR=20dB  JSR= 10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 915/1000]  BER=9.4727e-02  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 916/1000]  BER=4.8828e-03  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 917/1000]  BER=1.4551e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 918/1000]  BER=3.0664e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 919/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 920/1000]  BER=3.0957e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 921/1000]  BER=4.3945e-01  SNR=30dB  JSR=  5dB  single tone @ 10,000 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 922/1000]  BER=4.1602e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 923/1000]  BER=4.1504e-01  SNR=25dB  JSR= 20dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 924/1000]  BER=3.3008e-01  SNR=35dB  JSR= 10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 925/1000]  BER=1.0059e-01  SNR=35dB  JSR=  0dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 926/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 927/1000]  BER=8.7891e-03  SNR=40dB  JSR= 20dB  single tone @ 10,317 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 928/1000]  BER=2.3145e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 929/1000]  BER=8.6914e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 930/1000]  BER=3.7109e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 931/1000]  BER=5.8594e-03  SNR=40dB  JSR= 15dB  single tone @ 9,796 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 932/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  single tone @ 9,796 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 933/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 934/1000]  BER=9.7656e-04  SNR=30dB  JSR= 15dB  single tone @ 9,178 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 935/1000]  BER=3.2812e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 936/1000]  BER=3.2031e-01  SNR=40dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 937/1000]  BER=9.7656e-04  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+Bit Error Rate:
+[ 938/1000]  BER=2.7344e-02  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 939/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  single tone @ 10,809 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 940/1000]  BER=9.7656e-04  SNR=30dB  JSR=  5dB  single tone @ 9,478 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 941/1000]  BER=2.7832e-01  SNR=40dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 942/1000]  BER=2.8027e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+Bit Error Rate:
+[ 943/1000]  BER=2.4121e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 944/1000]  BER=4.3359e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 945/1000]  BER=5.0391e-01  SNR=35dB  JSR= 15dB  single tone @ 10,000 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 946/1000]  BER=4.2578e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 947/1000]  BER=2.9297e-03  SNR=25dB  JSR= 20dB  single tone @ 10,402 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 948/1000]  BER=9.7656e-04  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 949/1000]  BER=4.0137e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 950/1000]  BER=4.3359e-01  SNR=20dB  JSR= 15dB  single tone @ 9,884 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 951/1000]  BER=9.7656e-04  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 952/1000]  BER=2.2852e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 953/1000]  BER=0.0000e+00  SNR=35dB  JSR=-10dB  single tone @ 10,421 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 954/1000]  BER=5.0391e-01  SNR=25dB  JSR= 20dB  single tone @ 10,000 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 955/1000]  BER=2.4902e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 956/1000]  BER=9.7656e-04  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 957/1000]  BER=1.9531e-03  SNR=20dB  JSR= 10dB  single tone @ 10,429 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 958/1000]  BER=9.7656e-04  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 959/1000]  BER=2.2168e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 960/1000]  BER=3.0273e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 961/1000]  BER=4.5898e-01  SNR=30dB  JSR= 15dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 962/1000]  BER=9.8633e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 963/1000]  BER=6.3477e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 964/1000]  BER=2.4023e-01  SNR=30dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 965/1000]  BER=0.0000e+00  SNR=25dB  JSR= -5dB  single tone @ 10,212 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 966/1000]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  single tone @ 9,502 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 967/1000]  BER=9.7656e-04  SNR=35dB  JSR=  5dB  single tone @ 11,003 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 968/1000]  BER=3.2520e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 969/1000]  BER=5.8594e-03  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 970/1000]  BER=0.0000e+00  SNR=30dB  JSR= -5dB  single tone @ 10,887 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 971/1000]  BER=7.2266e-02  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 972/1000]  BER=2.3145e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 973/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 974/1000]  BER=1.9531e-03  SNR=35dB  JSR= -5dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 975/1000]  BER=1.9531e-03  SNR=30dB  JSR=-10dB  single tone @ 9,802 Hz noise var=1.0000e-03
+Bit Error Rate:
+[ 976/1000]  BER=9.7656e-04  SNR=20dB  JSR= 15dB  single tone @ 9,018 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 977/1000]  BER=1.1719e-02  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 978/1000]  BER=1.9531e-03  SNR=35dB  JSR= 10dB  single tone @ 9,685 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 979/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  single tone @ 9,676 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 980/1000]  BER=3.7012e-01  SNR=40dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-04
+Bit Error Rate:
+[ 981/1000]  BER=9.7656e-04  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 982/1000]  BER=2.1875e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[ 983/1000]  BER=3.5840e-01  SNR=25dB  JSR=  0dB  single tone @ 10,126 Hz noise var=3.1623e-03
+Bit Error Rate:
+[ 984/1000]  BER=9.7656e-04  SNR=40dB  JSR=  0dB  single tone @ 9,821 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 985/1000]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  single tone @ 10,895 Hz noise var=3.1623e-04
+Bit Error Rate:
+[ 986/1000]  BER=2.9785e-01  SNR=30dB  JSR= 10dB  dense comb noise var=1.0000e-03
+Bit Error Rate:
+[ 987/1000]  BER=0.0000e+00  SNR=20dB  JSR=-10dB  single tone @ 9,617 Hz noise var=1.0000e-02
+Bit Error Rate:
+[ 988/1000]  BER=1.9531e-03  SNR=40dB  JSR=-10dB  single tone @ 9,589 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 989/1000]  BER=9.7656e-04  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 990/1000]  BER=9.4727e-02  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+Bit Error Rate:
+[ 991/1000]  BER=3.1445e-01  SNR=25dB  JSR= 10dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 992/1000]  BER=3.7012e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 993/1000]  BER=3.9062e-02  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+Bit Error Rate:
+[ 994/1000]  BER=2.3047e-01  SNR=20dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 995/1000]  BER=3.4570e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+Bit Error Rate:
+[ 996/1000]  BER=9.7656e-04  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+Bit Error Rate:
+[ 997/1000]  BER=0.0000e+00  SNR=40dB  JSR= -5dB  single tone @ 9,309 Hz noise var=1.0000e-04
+Bit Error Rate:
+[ 998/1000]  BER=4.1113e-01  SNR=35dB  JSR= 20dB  dense comb noise var=3.1623e-04
+Bit Error Rate:
+[ 999/1000]  BER=3.9941e-01  SNR=25dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-03
+Bit Error Rate:
+[1000/1000]  BER=5.8594e-03  SNR=40dB  JSR= 20dB  single tone @ 10,413 Hz noise var=1.0000e-04
+Done.

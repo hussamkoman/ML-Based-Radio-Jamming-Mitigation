@@ -1,0 +1,3 @@
+tensorflow[and-cuda]
+sionna==0.15.1
+mitsuba==3.5.2

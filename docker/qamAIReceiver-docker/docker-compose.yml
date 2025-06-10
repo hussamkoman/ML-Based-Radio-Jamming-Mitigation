@@ -1,0 +1,12 @@
+services:
+  qam-ai-receiver:
+    build: .
+    image: qam-ai-receiver
+    container_name: qam-ai-receiver-dev
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ../../src/qamAIReceiver:/app
+    working_dir: /app
+    tty: true

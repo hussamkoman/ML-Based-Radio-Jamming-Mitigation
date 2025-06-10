@@ -1,0 +1,132 @@
+$ python dataset_generator.py
+Generating 120 runs → dataset_v2/03_qam_simulations.h5
+  M               : 16
+  TX-power [W]    : 1
+  Carrier freq [Hz]: 250000
+  Data-rate [bit/s]: 8192
+  Sampling rate   : 4194304.0
+  Jammer BW [Hz]  : 2000
+  Tone spacing [Hz]: 100
+
+[   1/120]  BER=1.2207e-04  SNR=25dB  JSR= 20dB  No Jamming noise var=3.1623e-03
+[   2/120]  BER=1.2207e-04  SNR=35dB  JSR= 10dB  No Jamming noise var=3.1623e-04
+[   3/120]  BER=0.0000e+00  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+[   4/120]  BER=1.2207e-04  SNR=25dB  JSR= -5dB  No Jamming noise var=3.1623e-03
+[   5/120]  BER=2.4414e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+[   6/120]  BER=1.2207e-04  SNR=25dB  JSR= 10dB  No Jamming noise var=3.1623e-03
+[   7/120]  BER=1.2207e-04  SNR=20dB  JSR= -5dB  No Jamming noise var=1.0000e-02
+[   8/120]  BER=0.0000e+00  SNR=40dB  JSR=  0dB  No Jamming noise var=1.0000e-04
+[   9/120]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  No Jamming noise var=3.1623e-04
+[  10/120]  BER=1.2207e-04  SNR=25dB  JSR= 20dB  No Jamming noise var=3.1623e-03
+[  11/120]  BER=1.2207e-04  SNR=25dB  JSR=  5dB  No Jamming noise var=3.1623e-03
+[  12/120]  BER=1.2207e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+[  13/120]  BER=1.2207e-04  SNR=35dB  JSR=  5dB  No Jamming noise var=3.1623e-04
+[  14/120]  BER=2.4414e-04  SNR=20dB  JSR= 20dB  No Jamming noise var=1.0000e-02
+[  15/120]  BER=0.0000e+00  SNR=35dB  JSR= -5dB  No Jamming noise var=3.1623e-04
+[  16/120]  BER=1.2207e-04  SNR=20dB  JSR= 15dB  No Jamming noise var=1.0000e-02
+[  17/120]  BER=1.2207e-04  SNR=20dB  JSR=  5dB  No Jamming noise var=1.0000e-02
+[  18/120]  BER=1.2207e-04  SNR=30dB  JSR= -5dB  No Jamming noise var=1.0000e-03
+[  19/120]  BER=1.2207e-04  SNR=30dB  JSR=  0dB  No Jamming noise var=1.0000e-03
+[  20/120]  BER=1.2207e-04  SNR=40dB  JSR= -5dB  No Jamming noise var=1.0000e-04
+[  21/120]  BER=1.2207e-04  SNR=25dB  JSR= 10dB  No Jamming noise var=3.1623e-03
+[  22/120]  BER=0.0000e+00  SNR=40dB  JSR=  0dB  No Jamming noise var=1.0000e-04
+[  23/120]  BER=1.2207e-04  SNR=35dB  JSR= 10dB  No Jamming noise var=3.1623e-04
+[  24/120]  BER=1.2207e-04  SNR=30dB  JSR= 10dB  No Jamming noise var=1.0000e-03
+[  25/120]  BER=1.2207e-04  SNR=20dB  JSR= 10dB  No Jamming noise var=1.0000e-02
+[  26/120]  BER=0.0000e+00  SNR=40dB  JSR= 10dB  No Jamming noise var=1.0000e-04
+[  27/120]  BER=2.4414e-04  SNR=25dB  JSR=  5dB  No Jamming noise var=3.1623e-03
+[  28/120]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  No Jamming noise var=1.0000e-03
+[  29/120]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  No Jamming noise var=1.0000e-03
+[  30/120]  BER=0.0000e+00  SNR=30dB  JSR= 10dB  No Jamming noise var=1.0000e-03
+[  31/120]  BER=0.0000e+00  SNR=25dB  JSR=-10dB  No Jamming noise var=3.1623e-03
+[  32/120]  BER=4.0833e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+[  33/120]  BER=4.6985e-01  SNR=20dB  JSR= 15dB  single tone @ 250,298 Hz noise var=1.0000e-02
+[  34/120]  BER=2.8735e-01  SNR=25dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-03
+[  35/120]  BER=6.3965e-02  SNR=25dB  JSR=-10dB  dense comb noise var=3.1623e-03
+[  36/120]  BER=4.0710e-01  SNR=30dB  JSR=  5dB  single tone @ 249,582 Hz noise var=1.0000e-03
+[  37/120]  BER=4.1577e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+[  38/120]  BER=4.5532e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+[  39/120]  BER=3.5803e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+[  40/120]  BER=2.0654e-01  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+[  41/120]  BER=3.0933e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+[  42/120]  BER=2.9089e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+[  43/120]  BER=4.0784e-01  SNR=20dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-02
+[  44/120]  BER=4.6204e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+[  45/120]  BER=3.7366e-01  SNR=25dB  JSR=  0dB  single tone @ 250,915 Hz noise var=3.1623e-03
+[  46/120]  BER=4.0015e-01  SNR=25dB  JSR=  5dB  single tone @ 250,409 Hz noise var=3.1623e-03
+[  47/120]  BER=4.8389e-01  SNR=35dB  JSR= 20dB  single tone @ 250,397 Hz noise var=3.1623e-04
+[  48/120]  BER=4.7144e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+[  49/120]  BER=4.7253e-01  SNR=20dB  JSR= 15dB  single tone @ 250,901 Hz noise var=1.0000e-02
+[  50/120]  BER=3.6206e-01  SNR=35dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-04
+[  51/120]  BER=6.5552e-02  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+[  52/120]  BER=4.3274e-01  SNR=35dB  JSR= 15dB  multi-tone jittered noise var=3.1623e-04
+[  53/120]  BER=2.8821e-01  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+[  54/120]  BER=3.5791e-01  SNR=25dB  JSR=  5dB  multi-tone jittered noise var=3.1623e-03
+[  55/120]  BER=7.1411e-02  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+[  56/120]  BER=4.6753e-02  SNR=25dB  JSR=-10dB  single tone @ 249,380 Hz noise var=3.1623e-03
+[  57/120]  BER=4.7327e-01  SNR=35dB  JSR= 20dB  multi-tone jittered noise var=3.1623e-04
+[  58/120]  BER=4.7229e-01  SNR=35dB  JSR= 15dB  single tone @ 250,376 Hz noise var=3.1623e-04
+[  59/120]  BER=2.9065e-01  SNR=35dB  JSR=  0dB  multi-tone jittered noise var=3.1623e-04
+[  60/120]  BER=1.7908e-01  SNR=20dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-02
+[  61/120]  BER=3.6328e-01  SNR=35dB  JSR=  5dB  single tone @ 250,990 Hz noise var=3.1623e-04
+[  62/120]  BER=2.3779e-01  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+[  63/120]  BER=4.6387e-01  SNR=40dB  JSR= 15dB  single tone @ 251,025 Hz noise var=1.0000e-04
+[  64/120]  BER=4.8828e-02  SNR=40dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-04
+[  65/120]  BER=3.9209e-01  SNR=20dB  JSR=  5dB  single tone @ 250,810 Hz noise var=1.0000e-02
+[  66/120]  BER=3.1653e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+[  67/120]  BER=3.8916e-01  SNR=30dB  JSR=  0dB  single tone @ 250,797 Hz noise var=1.0000e-03
+[  68/120]  BER=1.6479e-01  SNR=35dB  JSR= -5dB  dense comb noise var=3.1623e-04
+[  69/120]  BER=2.8833e-01  SNR=40dB  JSR= -5dB  single tone @ 250,000 Hz noise var=1.0000e-04
+[  70/120]  BER=3.9917e-02  SNR=40dB  JSR=-10dB  single tone @ 249,720 Hz noise var=1.0000e-04
+[  71/120]  BER=4.9316e-02  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+[  72/120]  BER=3.9954e-01  SNR=20dB  JSR=  5dB  single tone @ 250,191 Hz noise var=1.0000e-02
+[  73/120]  BER=4.1907e-01  SNR=35dB  JSR= 10dB  multi-tone jittered noise var=3.1623e-04
+[  74/120]  BER=4.0344e-01  SNR=25dB  JSR=  5dB  single tone @ 250,600 Hz noise var=3.1623e-03
+[  75/120]  BER=4.4702e-01  SNR=35dB  JSR= 10dB  single tone @ 249,582 Hz noise var=3.1623e-04
+[  76/120]  BER=3.4631e-01  SNR=40dB  JSR=  0dB  dense comb noise var=1.0000e-04
+[  77/120]  BER=3.7451e-01  SNR=30dB  JSR=  0dB  single tone @ 250,321 Hz noise var=1.0000e-03
+[  78/120]  BER=2.8943e-01  SNR=20dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-02
+[  79/120]  BER=3.0627e-01  SNR=25dB  JSR=  0dB  dense comb noise var=3.1623e-03
+[  80/120]  BER=1.8237e-01  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+[  81/120]  BER=4.0649e-01  SNR=30dB  JSR=  5dB  single tone @ 250,271 Hz noise var=1.0000e-03
+[  82/120]  BER=4.7498e-01  SNR=30dB  JSR= 20dB  dense comb noise var=1.0000e-03
+[  83/120]  BER=4.3921e-01  SNR=30dB  JSR= 15dB  multi-tone jittered noise var=1.0000e-03
+[  84/120]  BER=4.7266e-01  SNR=30dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-03
+[  85/120]  BER=4.6191e-01  SNR=40dB  JSR= 20dB  dense comb noise var=1.0000e-04
+[  86/120]  BER=3.7671e-01  SNR=25dB  JSR=  5dB  dense comb noise var=3.1623e-03
+[  87/120]  BER=4.5288e-01  SNR=40dB  JSR= 15dB  dense comb noise var=1.0000e-04
+[  88/120]  BER=4.5300e-01  SNR=30dB  JSR= 10dB  single tone @ 250,589 Hz noise var=1.0000e-03
+[  89/120]  BER=3.7085e-01  SNR=35dB  JSR=  5dB  dense comb noise var=3.1623e-04
+[  90/120]  BER=1.7542e-01  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+[  91/120]  BER=3.0249e-01  SNR=40dB  JSR=  0dB  multi-tone jittered noise var=1.0000e-04
+[  92/120]  BER=4.7559e-01  SNR=40dB  JSR= 15dB  single tone @ 249,301 Hz noise var=1.0000e-04
+[  93/120]  BER=7.4707e-02  SNR=40dB  JSR=-10dB  dense comb noise var=1.0000e-04
+[  94/120]  BER=3.7463e-01  SNR=20dB  JSR=  5dB  dense comb noise var=1.0000e-02
+[  95/120]  BER=4.3115e-01  SNR=35dB  JSR= 15dB  dense comb noise var=3.1623e-04
+[  96/120]  BER=7.5439e-02  SNR=35dB  JSR=-10dB  dense comb noise var=3.1623e-04
+[  97/120]  BER=4.4580e-01  SNR=25dB  JSR= 15dB  dense comb noise var=3.1623e-03
+[  98/120]  BER=4.7498e-01  SNR=30dB  JSR= 20dB  single tone @ 250,924 Hz noise var=1.0000e-03
+[  99/120]  BER=3.6304e-01  SNR=35dB  JSR=  0dB  single tone @ 249,704 Hz noise var=3.1623e-04
+[ 100/120]  BER=3.6719e-01  SNR=20dB  JSR=  0dB  single tone @ 249,516 Hz noise var=1.0000e-02
+[ 101/120]  BER=3.6938e-01  SNR=20dB  JSR=  0dB  single tone @ 249,817 Hz noise var=1.0000e-02
+[ 102/120]  BER=3.7317e-01  SNR=20dB  JSR=  0dB  single tone @ 249,519 Hz noise var=1.0000e-02
+[ 103/120]  BER=3.8855e-01  SNR=30dB  JSR=  0dB  single tone @ 249,183 Hz noise var=1.0000e-03
+[ 104/120]  BER=1.9751e-01  SNR=40dB  JSR= -5dB  dense comb noise var=1.0000e-04
+[ 105/120]  BER=5.0781e-02  SNR=25dB  JSR=-10dB  multi-tone jittered noise var=3.1623e-03
+[ 106/120]  BER=4.1528e-01  SNR=30dB  JSR= 10dB  multi-tone jittered noise var=1.0000e-03
+[ 107/120]  BER=4.9438e-02  SNR=20dB  JSR=-10dB  multi-tone jittered noise var=1.0000e-02
+[ 108/120]  BER=1.2207e-04  SNR=40dB  JSR=-10dB  single tone @ 250,872 Hz noise var=1.0000e-04
+[ 109/120]  BER=4.5569e-01  SNR=35dB  JSR= 15dB  dense comb noise var=3.1623e-04
+[ 110/120]  BER=4.6912e-01  SNR=20dB  JSR= 20dB  multi-tone jittered noise var=1.0000e-02
+[ 111/120]  BER=3.7292e-01  SNR=25dB  JSR=  0dB  single tone @ 250,484 Hz noise var=3.1623e-03
+[ 112/120]  BER=2.9297e-01  SNR=30dB  JSR=  0dB  dense comb noise var=1.0000e-03
+[ 113/120]  BER=1.7590e-01  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+[ 114/120]  BER=3.5510e-01  SNR=35dB  JSR=  5dB  single tone @ 250,906 Hz noise var=3.1623e-04
+[ 115/120]  BER=3.7585e-01  SNR=35dB  JSR=  0dB  single tone @ 249,287 Hz noise var=3.1623e-04
+[ 116/120]  BER=5.7617e-02  SNR=20dB  JSR=-10dB  dense comb noise var=1.0000e-02
+[ 117/120]  BER=1.7761e-01  SNR=40dB  JSR= -5dB  multi-tone jittered noise var=1.0000e-04
+[ 118/120]  BER=3.5974e-01  SNR=20dB  JSR=  5dB  multi-tone jittered noise var=1.0000e-02
+[ 119/120]  BER=2.1301e-01  SNR=25dB  JSR= -5dB  dense comb noise var=3.1623e-03
+[ 120/120]  BER=1.7261e-01  SNR=20dB  JSR= -5dB  dense comb noise var=1.0000e-02
+Done.
+

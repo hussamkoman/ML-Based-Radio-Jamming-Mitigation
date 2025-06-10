@@ -1,0 +1,12 @@
+services:
+  pyjama:
+    build: .
+    image: pyjama-gpu
+    container_name: pyjama-dev
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ../../src/ofdmRadioSimulation:/app
+    working_dir: /app
+    tty: true

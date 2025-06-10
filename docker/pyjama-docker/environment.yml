@@ -1,0 +1,14 @@
+name: pyjama-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - tensorflow==2.15.0
+      - sionna==0.15.1
+      - mitsuba==3.5.2
+      - numpy
+      - h5py
+      - notebook

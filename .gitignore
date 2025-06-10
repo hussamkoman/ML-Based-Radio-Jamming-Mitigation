@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+*.log
+
+.vscode/
+.idea/
+
+*.h5
+*.keras

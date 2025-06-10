@@ -1,0 +1,16 @@
+name: qam-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - tensorflow[and-cuda]
+      - numpy
+      - scipy
+      - h5py
+      - scikit-learn
+      - matplotlib
+      - graphviz
+      - pydot
+      - nvidia-ml-py3
